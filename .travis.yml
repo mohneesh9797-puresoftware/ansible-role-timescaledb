@@ -1,6 +1,9 @@
 ---
 
 dist: bionic
+arch:
+  - amd64
+  - arm64
 
 language: python
 python:
